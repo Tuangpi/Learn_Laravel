@@ -1,4 +1,4 @@
-# Laravel EIMG
+# Learn Laravel
 
 Simple Laravel 9 blog-style app for managing articles and comments.
 
